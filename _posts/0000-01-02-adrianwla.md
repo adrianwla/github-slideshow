@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I would like to get a new, great, value job :) 
 Use the left arrow to go back!
